@@ -49,4 +49,11 @@ Este repositorio contiene **9 ejercicios prácticos de JavaScript**, donde he ap
 ---
 
 ### 8. ✍️ Contador de Palabras y Caracteres
-**Objetivo:** Eventos
+**Objetivo:** Eventos en tiempo real y análisis de texto.
+**Ejercicio:** Muestra cantidad de palabras y caracteres (sin contar espacios) en tiempo real.
+
+---
+
+### 9. 📌 Lista de Tareas con LocalStorage
+**Objetivo:** Practicar persistencia de datos con localStorage.  
+**Ejercicio:** Lista de tareas con checkbox, almacenamiento persistente y opción para limpiar completadas.
