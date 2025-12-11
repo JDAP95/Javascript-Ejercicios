@@ -1,1 +1,0 @@
-import"./main-C1MXJev5.js";let o=document.getElementById("button");function n(){return"#"+Math.floor(Math.random()*16777215).toString(16)}o.addEventListener("click",t=>{t&&(document.body.style.backgroundColor=n())});

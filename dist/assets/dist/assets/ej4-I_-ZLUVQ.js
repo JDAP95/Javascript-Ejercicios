@@ -1,1 +1,0 @@
-import"./main-C1MXJev5.js";const e=document.querySelector("#ej-4 input"),c=document.querySelectorAll("#ej-4 li");e.addEventListener("input",()=>{const o=e.value.toLowerCase();c.forEach(t=>{const n=t.textContent.toLowerCase();t.style.display=n.includes(o)?"block":"none"})});
