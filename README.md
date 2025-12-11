@@ -1,6 +1,6 @@
 # Ejercicios Javascript
 
-Este repositorio contiene **9 ejercicios prácticos de JavaScript**, donde he aprendido a trabajar con eventos del DOM, manipulación de elementos, temporizadores, almacenamiento local, lógica y más.
+Este repositorio contiene **9 ejercicios prácticos de JavaScript** y un poco de CSS con SASS, donde he aprendido a trabajar con eventos del DOM, manipulación de elementos, temporizadores, almacenamiento local, lógica y más. 
 
 ---
 
